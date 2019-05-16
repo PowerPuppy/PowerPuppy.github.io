@@ -1,11 +1,11 @@
 # Site settings
-author: Chris Cheong
-title: 
+author: Chris
+title: A hero's story. 
 header-img: img/home-bg.png
 email: chrisxcheong@gmail.com
-copyright_name: Chris Cheong
+copyright_name: Chris
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Rather
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  PowerPuppy
